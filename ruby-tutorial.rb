@@ -1,4 +1,4 @@
-# Computer programming for people who just discovered the `on` button.
+# Work In Progress
 
 # This is a Ruby file. In this file we can write Ruby code to make a program.
 # Ruby will execute / run / interpret every line in this file and perform an action.
